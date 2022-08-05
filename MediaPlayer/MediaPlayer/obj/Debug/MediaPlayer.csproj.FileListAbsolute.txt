@@ -1,0 +1,15 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MediaPlayer\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MediaPlayer\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MediaPlayer\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MediaPlayer\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
